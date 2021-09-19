@@ -4,6 +4,9 @@ Project 1 Cyber Security
 The files in this repository were used to configure the network depicted below.
 
 Elk-stack-Diagram: ELK_diagram.png
+
+<img width="503" alt="ELK_diagram" src="https://user-images.githubusercontent.com/81538423/133945274-c4b62581-fe9f-4f94-8110-364abc7f3005.png">
+
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
   -filebeat-playbook.yml
   -metricbeat-playbook.yml
@@ -82,7 +85,3 @@ SSH into the control node and follow the steps below:
 
 <img width="745" alt="docker_ps_output" src="https://user-images.githubusercontent.com/81538423/133945258-c608c69b-6703-4f6a-a0e5-4af55b69ee98.png">
 
-
-<img width="503" alt="ELK_diagram" src="https://user-images.githubusercontent.com/81538423/133945274-c4b62581-fe9f-4f94-8110-364abc7f3005.png">
-
-<img width="503" alt="ELK diagram" src="https://user-images.githubusercontent.com/81538423/133945279-08632b86-60ef-4f81-ab03-d5fe1b6d04dc.png">
