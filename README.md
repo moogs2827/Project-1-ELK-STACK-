@@ -83,3 +83,6 @@ SSH into the control node and follow the steps below:
 <img width="745" alt="docker_ps_output" src="https://user-images.githubusercontent.com/81538423/133945258-c608c69b-6703-4f6a-a0e5-4af55b69ee98.png">
 
 
+<img width="503" alt="ELK_diagram" src="https://user-images.githubusercontent.com/81538423/133945274-c4b62581-fe9f-4f94-8110-364abc7f3005.png">
+
+<img width="503" alt="ELK diagram" src="https://user-images.githubusercontent.com/81538423/133945279-08632b86-60ef-4f81-ab03-d5fe1b6d04dc.png">
