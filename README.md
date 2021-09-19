@@ -80,3 +80,6 @@ SSH into the control node and follow the steps below:
 - Filebeat will run on the DVWAs, both Virtual machine 1 and virtual machine 2, as will Metricbeat.
 -To check that the ELK server is running, navigate to the URL 70.37.162.50:5601, as it runs on that port.
 
+<img width="745" alt="docker_ps_output" src="https://user-images.githubusercontent.com/81538423/133945258-c608c69b-6703-4f6a-a0e5-4af55b69ee98.png">
+
+
