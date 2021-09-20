@@ -19,7 +19,7 @@ This document contains the following details:
 - How to Use the Ansible Build
 
 ### Description of the Topology
-The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
+The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the Vulnerable Web Application.
 Load balancing ensures that the application will be highly available in addition to restricting access to the network.
 -Load balancers distribute traffic to servers to prevent any one server from being overloaded. This protects against DDoS attacks by preventing servers from being overloaded. The jump box has the advantages of allowing access to the user froma single node, and this means it can be more easily secured and monitored. 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the data and system logs.
